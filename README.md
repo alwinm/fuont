@@ -1,5 +1,9 @@
 # fuont
 
+Usage:
+
+    python -m fuont [hexcode] [string to convert]
+
 Some cool fonts (hexcode, example):
 
 Mathematical Symbols (WARNING means some letters are missing)
@@ -10,25 +14,25 @@ Mathematical Symbols (WARNING means some letters are missing)
 
 0x1d434 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻𝐼𝐽𝐾𝐿𝑀𝑁𝑂𝑃𝑄𝑅𝑆𝑇𝑈𝑉𝑊𝑋𝑌𝑍
 
-0x1d44e 𝑎𝑏𝑐𝑑𝑒𝑓𝑔𝑕𝑖𝑗𝑘𝑙𝑚𝑛𝑜𝑝𝑞𝑟𝑠𝑡𝑢𝑣𝑤𝑥𝑦𝑧 # WARNING
+0x1d44e 𝑎𝑏𝑐𝑑𝑒𝑓𝑔__𝑗𝑘𝑙𝑚𝑛𝑜𝑝𝑞𝑟𝑠𝑡𝑢𝑣𝑤𝑥𝑦𝑧 # WARNING
 
 0x1d468 𝑨𝑩𝑪𝑫𝑬𝑭𝑮𝑯𝑰𝑱𝑲𝑳𝑴𝑵𝑶𝑷𝑸𝑹𝑺𝑻𝑼𝑽𝑾𝑿𝒀𝒁
 
 0x1d482 𝒂𝒃𝒄𝒅𝒆𝒇𝒈𝒉𝒊𝒋𝒌𝒍𝒎𝒏𝒐𝒑𝒒𝒓𝒔𝒕𝒖𝒗𝒘𝒙𝒚𝒛
 
-0x1d49c 𝒜𝒝𝒞𝒟𝒠𝒡𝒢𝒣𝒤𝒥𝒦𝒧𝒨𝒩𝒪𝒫𝒬𝒭𝒮𝒯𝒰𝒱𝒲𝒳𝒴𝒵 #WARNING
+0x1d49c 𝒜_𝒞𝒟__𝒢__𝒥𝒦__𝒩𝒪𝒫𝒬_𝒮𝒯𝒰𝒱𝒲𝒳𝒴𝒵 #WARNING
 
-0x1d4b6 𝒶𝒷𝒸𝒹𝒺𝒻𝒼𝒽𝒾𝒿𝓀𝓁𝓂𝓃𝓄𝓅𝓆𝓇𝓈𝓉𝓊𝓋𝓌𝓍𝓎𝓏 #WARNING
+0x1d4b6 𝒶𝒷𝒸𝒹_𝒻_𝒽𝒾𝒿𝓀𝓁𝓂𝓃_𝓅𝓆𝓇𝓈𝓉𝓊𝓋𝓌𝓍𝓎𝓏 #WARNING
 
 0x1d4d0 𝓐𝓑𝓒𝓓𝓔𝓕𝓖𝓗𝓘𝓙𝓚𝓛𝓜𝓝𝓞𝓟𝓠𝓡𝓢𝓣𝓤𝓥𝓦𝓧𝓨𝓩
 
 0x1d4ea 𝓪𝓫𝓬𝓭𝓮𝓯𝓰𝓱𝓲𝓳𝓴𝓵𝓶𝓷𝓸𝓹𝓺𝓻𝓼𝓽𝓾𝓿𝔀𝔁𝔂𝔃
 
-0x1d504 𝔄𝔅𝔆𝔇𝔈𝔉𝔊𝔋𝔌𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔𝔕𝔖𝔗𝔘𝔙𝔚𝔛𝔜𝔝 #WARNING
+0x1d504 𝔄𝔅_𝔇𝔈𝔉𝔊__𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔_𝔖𝔗𝔘𝔙𝔚𝔛𝔜_ #WARNING
 
 0x1d51e 𝔞𝔟𝔠𝔡𝔢𝔣𝔤𝔥𝔦𝔧𝔨𝔩𝔪𝔫𝔬𝔭𝔮𝔯𝔰𝔱𝔲𝔳𝔴𝔵𝔶𝔷
 
-0x1d538 𝔸𝔹𝔺𝔻𝔼𝔽𝔾𝔿𝕀𝕁𝕂𝕃𝕄𝕅𝕆𝕇𝕈𝕉𝕊𝕋𝕌𝕍𝕎𝕏𝕐𝕑 #WARNING
+0x1d538 𝔸𝔹_𝔻𝔼𝔽𝔾_𝕀𝕁𝕂𝕃𝕄_𝕆___𝕊𝕋𝕌𝕍𝕎𝕏𝕐_ #WARNING
 
 0x1d552 𝕒𝕓𝕔𝕕𝕖𝕗𝕘𝕙𝕚𝕛𝕜𝕝𝕞𝕟𝕠𝕡𝕢𝕣𝕤𝕥𝕦𝕧𝕨𝕩𝕪𝕫
 
